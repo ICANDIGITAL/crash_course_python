@@ -42,7 +42,7 @@ motorcycles = ['honda', 'yamaha', 'suzuki']
 first_owned = motorcycles.pop(0)
 print("The first motorcycles I owned was a " + first_owned.title() + ".")
 
-#Below I wam removing an item from an element, not by indexing, by the actual "value".
+#Below I wam removing an element from a list, not by indexing, by the actual "value".
 #To do this I will be using the .remove() method.
 motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
 print(motorcycles)
