@@ -1,0 +1,10 @@
+guest_list = ['Hugh', 'Majorie', 'Kenny']
+print("I hope you guys are well" + ", "  + guest_list[0] + " and your invited to dinner.")
+print("I hope you guys are well" + ", "  + guest_list[1] + " and your invited to dinner.")
+print("I hope you guys are well" + ", "  + guest_list[-1] + " and your invited to dinner.")
+cant_make_it = guest_list.pop()
+print(cant_make_it + " can't make it to dinner.")
+guest_list.append('dawn')
+print("I hope you guys are well" + ", "  + guest_list[-3] + " and your invited to dinner.")
+print("I hope you guys are well" + ", "  + guest_list[-2] + " and your invited to dinner.")
+print("I hope you guys are well" + ", "  + guest_list[-1].title() + " and your invited to dinner.")
