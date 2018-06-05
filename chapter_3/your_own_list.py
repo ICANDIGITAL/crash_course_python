@@ -1,4 +1,4 @@
-#NAME:CHRISTOPHER LEADER DATE:04/01/18 DESCRIPTION: Below I am storing a list of bike brand and then using concatenation to combine items from the list inside of variables.
+#NAME:CHRISTOPHER LEADER DATE:04/01/18 DESCRIPTION: Below I am storing a list of bike brand and then using concatenation to combine elements from the list inside of variables.
 bicycles = ['trek', 'cannodale', 'redline', 'specialized', 'aventon']
 number = 1
 message_1 = "I could have bought a " + bicycles[-2].title() + " " + "but instead I brought a " + bicycles[-1].title() + "."

@@ -6,6 +6,7 @@ print(bicycles[0])
 print(bicycles[0].title())
 print(bicycles[1].title())
 print(bicycles[3].title())
+print("\n")
 #Here I am learning how to access the items in the list in reverse by using the - sign.
 print(bicycles[-1].title())
 print(bicycles[-2].title())

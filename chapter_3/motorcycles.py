@@ -37,7 +37,7 @@ print(motorcycles)
 print(last_owned)
 print("The last motorcycle that I was advised to buy was an " + last_owned.title() + " " + "two stroke racing bike.")
 
-#Below I am utilizing the .pop() method in order to remow an element from a specific location.
+#Below I am utilizing the .pop() method in order to remove an element from a specific location.
 motorcycles = ['honda', 'yamaha', 'suzuki']
 first_owned = motorcycles.pop(0)
 print("The first motorcycles I owned was a " + first_owned.title() + ".")

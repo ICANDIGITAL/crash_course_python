@@ -1,4 +1,4 @@
-#NAME:iCan Digital DATE:03/01/2018 DESCRIPTION: I the program below I am quoting Max Stirner and making the nessesary corrections concerning quotations in order to "print" the statement.
+#NAME:iCan Digital DATE:03/01/2018 DESCRIPTION: In the program below I am quoting Max Stirner and making the nessesary corrections concerning quotations in order to "print" the statement.
 
 #Here I am storing the name "Max Stirner" as a value within the variable name without adding "whitespace".
 name = "Max Stirner"

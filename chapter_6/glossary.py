@@ -7,8 +7,8 @@ glossary = {
     'set statement' : 'allows for a negation of like terms while looping',
     'sorted statement' : 'temporarily allows for alphabetical looping',
     'key' : 'act as a variable within a dictionary',
-    'value' : 'linked to variables',
-    'del statement' : 'used to permanantly delete items from lists or dictionary'
+    'string' : 'alphabetical character(s) stored in variables',
+    'del statement' : 'used to permanently delete items from lists or dictionary'
 }
 
 print('variable:'.title() +'\n\t' + glossary ['variable'].upper())
